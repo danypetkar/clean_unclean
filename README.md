@@ -1,5 +1,11 @@
 
 # Floor Detection on Yolov5 using Jetson Nano 2gb Developer Kit.
+## Demo
+
+
+https://user-images.githubusercontent.com/65066836/151316438-765184c7-2645-4937-a3c2-d05a5e92d548.mp4
+
+
 
 Floor detection system which will detect the quality of Floor, identify whether
 its clean or unclean and then recommend the steps to take after identifying the property of the
@@ -90,7 +96,7 @@ classification, and hence can be used for Floor detection as well.
 ## Jetson Nano Compatibility
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/clean_unclean/blob/main/IMG_20220125_115719.jpg)
 
 • The power of modern AI is now available for makers, learners, and embedded developers
 everywhere.
